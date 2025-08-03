@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #a8edf4; /* light sky blue */
+}
+
+#gameCanvas {
+  width: 400px;
+  height: 600px;
+  border-radius: 10px;
+  background-color: #66cccc;
+}
